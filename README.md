@@ -1,4 +1,4 @@
-<img align="center"   width="1000" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif"/>
+<img align="center"   width="1000" src="https://user-images.githubusercontent.com/105595540/212469547-27e4c290-983d-4544-8266-60efd135ae41.gif"/>
 <h1 align="center">Hi 👋, I'm Chilagani Tharunkumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
